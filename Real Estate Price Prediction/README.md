@@ -2,3 +2,5 @@
 train.csv (содержит признаки и цены на квартиры) и test.csv (только признаки).
 
 Ссылка на соревнование: https://www.kaggle.com/competitions/real-estate-price-prediction-moscow
+
+Основные инструменты: Pandas, NumPy, matplotlib, sklearn
